@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\bin\Debug\net7.0\DP_Count_Arrays.exe
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\bin\Debug\net7.0\DP_Count_Arrays.deps.json
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\bin\Debug\net7.0\DP_Count_Arrays.runtimeconfig.json
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\bin\Debug\net7.0\DP_Count_Arrays.dll
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\bin\Debug\net7.0\DP_Count_Arrays.pdb
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\DP_Count_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\DP_Count_Arrays.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\DP_Count_Arrays.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\DP_Count_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\DP_Count_Arrays.dll
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\refint\DP_Count_Arrays.dll
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\DP_Count_Arrays.pdb
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\DP_Count_Arrays.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DP_Count_Arrays\DP_Count_Arrays\obj\Debug\net7.0\ref\DP_Count_Arrays.dll

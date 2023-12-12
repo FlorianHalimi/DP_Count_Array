@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DP_Count_Arrays/1.0.0": {
+        "runtime": {
+          "DP_Count_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DP_Count_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
